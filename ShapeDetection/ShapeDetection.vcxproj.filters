@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="colorDetection.cpp">
+    <ClCompile Include="contours.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
